@@ -1,2 +1,2 @@
-# civclassic
-CivClassic FactoryMod Config
+# Devoted Hell
+Devoted Hell FactoryMod Config
